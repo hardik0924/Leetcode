@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hardik0924/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/hardik0924/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hardik0924/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hardik0924/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hardik0924/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/hardik0924/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hardik0924/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hardik0924/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
