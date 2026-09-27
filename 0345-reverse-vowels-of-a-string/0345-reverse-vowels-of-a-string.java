@@ -14,7 +14,7 @@ class Solution {
             }
             
             // 2. Move 'right' backward if it is NOT a vowel
-            
+
             while (left < right && arr[right] != 'a' && arr[right] != 'e' && arr[right] != 'i' && arr[right] != 'o' && arr[right] != 'u' &&
                    arr[right] != 'A' && arr[right] != 'E' && arr[right] != 'I' && arr[right] != 'O' && arr[right] != 'U') {
                 right--;
@@ -31,6 +31,7 @@ class Solution {
         }
 
         // Return the modified character array converted back to a String
+        
         return new String(arr);
     }
 }
