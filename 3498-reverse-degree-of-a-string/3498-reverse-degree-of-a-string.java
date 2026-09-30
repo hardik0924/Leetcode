@@ -8,6 +8,8 @@ class Solution {
 
             totalSum += reverseAlphabetIndex * stringPosition;
 
+            
+
         }
         return totalSum;
     }
