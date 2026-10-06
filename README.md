@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hardik0924/Leetcode/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/hardik0924/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hardik0924/Leetcode/tree/master/0283-move-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/hardik0924/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/hardik0924/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3668-restore-finishing-order](https://github.com/hardik0924/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/hardik0924/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/hardik0924/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/hardik0924/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/hardik0924/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
