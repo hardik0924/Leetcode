@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hardik0924/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hardik0924/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hardik0924/Leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/hardik0924/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/hardik0924/Leetcode/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/hardik0924/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hardik0924/Leetcode/tree/master/0283-move-zeroes) |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/hardik0924/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/hardik0924/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/hardik0924/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
