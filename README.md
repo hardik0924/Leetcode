@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hardik0924/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hardik0924/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hardik0924/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/hardik0924/Leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/hardik0924/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/hardik0924/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/hardik0924/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hardik0924/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hardik0924/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0645-set-mismatch](https://github.com/hardik0924/Leetcode/tree/master/0645-set-mismatch) |
 | [3668-restore-finishing-order](https://github.com/hardik0924/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/hardik0924/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/hardik0924/Leetcode/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/hardik0924/Leetcode/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hardik0924/Leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/hardik0924/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
