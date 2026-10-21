@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hardik0924/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hardik0924/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hardik0924/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/hardik0924/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/hardik0924/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/hardik0924/Leetcode/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/hardik0924/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -129,6 +130,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hardik0924/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hardik0924/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
 
 
