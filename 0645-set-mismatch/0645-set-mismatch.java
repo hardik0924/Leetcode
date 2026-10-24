@@ -6,7 +6,7 @@ class Solution {
         Arrays.sort(nums);
         for(int i=0;i<n-1;i++){
            if(nums[i]==nums[i+1]){
-              //    int dupli= num[i];
+            
               res[0]=nums[i];
               break;
            }
