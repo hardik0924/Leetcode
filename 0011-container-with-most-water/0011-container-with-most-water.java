@@ -6,13 +6,11 @@ class Solution {
 
         while (right > left) {
             maxArea = Math.max(maxArea, (right - left) * Math.min(height[left], height[right]));
-
             if (height[left] < height[right]) {
                 left++;
             } else {
                 right--;
             }
-
         }
         return maxArea;
     }
