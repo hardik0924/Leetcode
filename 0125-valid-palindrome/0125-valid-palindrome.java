@@ -41,5 +41,6 @@ class Solution {
         String reversed = new StringBuilder(cleaned).reverse().toString();
         
         return cleaned.equals(reversed);
+        
     }
 }
